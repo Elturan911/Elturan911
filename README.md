@@ -1,8 +1,6 @@
 [![Header](https://github.com/Elturan911/Elturan911/blob/main/assets/1713973786050.jpeg)](https://www.linkedin.com/feed/)
 
-## I am Head of Incident-management and User Testing Department at MBANK 
-
-Latest 
+## I am Head of Incident-management and User Testing Department at MBANK
 
 HardSkills
 
@@ -17,9 +15,10 @@ HardSkills
 
 Follow Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-00896d?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/elturanegemberdiev)
+[![Instagram](https://img.shields.io/badge/-Instagram-00896d?style=plastic&style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/elturanegemberdiev)
 [![Telegram](https://img.shields.io/badge/-Telegram-00896d?style=plastic&style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/elturan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00896d?style=plastic&?style=for-the-badge&logo=linkedin&logoColor=fabf01)](https://www.linkedin.com/in/elturan-egemberdiev-8b0678242/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00896d?style=plastic&style=for-the-badge&logo=linkedin&logoColor=fabf01)](https://www.linkedin.com/in/elturan-egemberdiev-8b0678242/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-00896d?style=plastic&logo=whatsapp&logoColor=fabf01)](https://api.whatsapp.com/send?phone=996222222005)
 
 💡 Мое портфолио:  
 - 🔗 [Чек-листы](https://github.com/ТВОЙ_GITHUB/НазваниеПроекта)  
