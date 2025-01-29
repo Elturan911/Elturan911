@@ -15,4 +15,8 @@ HardSkills
 ![English_level_B2](https://img.shields.io/badge/English_level_B2-00896d?style=plastic)
 ![SQL](https://img.shields.io/badge/SQL-00896d?style=plastic)
 
-Follow Me 
+Follow Me
+
+[![Instagram](https://img.shields.io/badge/-Instagram-00896d?style=plastic&?style=for-the-badge&logo=instagram&logoColor=fabf01)](https://www.instagram.com/elturanegemberdiev)
+[![Telegram](https://img.shields.io/badge/-Telegram-00896d?style=plastic&style=for-the-badge&logo=telegram&logoColor=fabf01)](https://t.me/elturan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00896d?style=plastic&?style=for-the-badge&logo=linkedin&logoColor=fabf01)](https://www.linkedin.com/in/elturan-egemberdiev-8b0678242/)
